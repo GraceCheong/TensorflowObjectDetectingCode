@@ -2,9 +2,10 @@
 
 ## Install
 
-### 1. https://github.com/tensorflow/models 의 공유된 모델 data 사용 ###
+### 1. 공유된 모델 data 사용 ###
 
-코드를 다운받아 research/object_detecting 폴더만 사용하여도 무방
+https://github.com/tensorflow/models 의 코드를 다운받아 research/object_detecting 폴더만 사용하여도 무방하다. 
+git을 사용하여 clone 할 경우 terminal에 다음과 같은 명령어를 입력한다. 
 
 ```
 $clone https://github.com/tensorflow/models.git
@@ -14,6 +15,7 @@ $clone https://github.com/tensorflow/models.git
 ### 2. obejct.py 의 추가###
 
 obejct.py 의 스크립트를 작성하여 추가한다. 
+
 * https://nitr0.tistory.com/266 의 코드를 참고하여야 한다. 
 
 
