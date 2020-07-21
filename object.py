@@ -16,7 +16,7 @@ from PIL import Image
 import cv2
 
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(0) # capture 하는 카메라 연동 코드
 
 sys.path.append("..")
 
